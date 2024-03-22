@@ -1,0 +1,38 @@
+.Flag1{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(235, 73, 73);
+    position: relative;
+    margin: auto;
+}
+
+.Flag2{
+    width: 500px;
+    height: 200px;
+    background-color:darkblue;
+    position: relative;
+    margin: auto;
+}
+
+.Flag3{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50%;   
+    position: absolute;
+    top: 50px;
+    left: 38%;
+    margin: auto;
+   
+}
+
+#FlagLaos{
+    text-align: center;
+    color: white;
+}
+
+#Laos{
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
